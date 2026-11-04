@@ -20,3 +20,18 @@ asignas 3.50? muestra incompatible types:...
 **Preguntas:**
 1. ¿Qué ocurre si la condición del while nunca se vuelve falsa? se vuelve infinito
 2. ¿Cómo lo prevendrías en este caso? se previene poniendo dentro del while una instrucción que modifique la variable
+
+### Ejercicio 5 - DoWhile
+**Preguntas:**
+1. ¿Por qué do-while es más apropiado que while aquí? porque se necesita pedir el monto de apertura de la caja y despues saber si el dato que se ingresa es correcto o no
+
+### Ejercicio 6 - DoWhile
+**Preguntas:**
+1. ¿Por qué usas for aquí y no while? porque se sabe el tamaño del arregllo
+2. ¿Qué tiene el for que lo hace más conveniente cuando conoces el número de elementos? se puede poner todo en una sola linea, el contador, el máximo y el incremento
+
+### Ejercicio 6 - DoWhile
+**Preguntas:**
+1. ¿Cuántos errores encontraste? Clasifica cada uno: En principio encontré 2, el del int que debería ser String o si era int el 5 no llevar comillas, y el segundo la falta de punto y coma a double total. El tercero es que el if está asignando 
+2. ¿es un error de compilación o un error lógico? El error 1 y 2 son de compilación y el último es lógico.
+3. ¿Cómo los distingues? El error de compilación rompe las reglas del lenguaje y el error lógico mustra un resultado incorrecto
